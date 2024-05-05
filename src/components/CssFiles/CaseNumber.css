@@ -1,0 +1,41 @@
+.form_section{
+    display: flex;
+    justify-content: center;
+    margin: 25px 5px;
+}
+
+
+.form_container{
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    padding: 20px;
+    box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.3);
+    width: 50vw;
+    text-align: center;
+}
+.heading{
+    text-align: end;
+    font-family: "Mukta", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: small;
+}
+
+.radio_button input[type="radio"]{
+    margin: 0 10px;
+}
+.asteric_important{
+    color: red;
+    font-size: 1rem;
+}
+.CourtState_options{
+    margin: 10px 0;
+}
+.CourtState_options label{
+    padding: 0 25px;
+}
+.CourtState_options select {
+    padding: 4px 20px;
+    border-radius: 4px;
+    border: 2px solid black;
+}

@@ -1,0 +1,122 @@
+[
+    {
+      "cnr": "CHCH010022702022",
+      "year": 2022,
+      "petitioner": "AAKASH EDUCATIONAL SERVICE LTD",
+      "respondent": "MONISHIKHA SHARMA",
+      "caseNumber": "203800002432022",
+      "caseNumber2": 243,
+      "caseType": "EXE",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH020009492022",
+      "year": 2022,
+      "petitioner": "AAKASH RAJPUT",
+      "respondent": "GURNAM SINGH",
+      "caseNumber": "201600005132022",
+      "caseNumber2": 513,
+      "caseType": "CS CJ",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH020025722022",
+      "year": 2022,
+      "petitioner": "",
+      "respondent": "",
+      "caseNumber": "206100002582022",
+      "caseNumber2": 258,
+      "caseType": "CIVIL MISC",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH030140042022",
+      "year": 2022,
+      "petitioner": "State of UT Chandigarh",
+      "respondent": "Aakash",
+      "caseNumber": "202600002062022",
+      "caseNumber2": 206,
+      "caseType": "UNTRACE",
+      "decisionDate": "2022-08-13"
+    },
+    {
+      "cnr": "CHCH030028362022",
+      "year": 2022,
+      "petitioner": "HDFC BANK LTD.",
+      "respondent": "AAKASH KUMAR PANDEY",
+      "caseNumber": "205800011362022",
+      "caseNumber2": 1136,
+      "caseType": "NACT",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH030015022022",
+      "year": 2022,
+      "petitioner": "HDFC BANK LTD.",
+      "respondent": "AAKASH",
+      "caseNumber": "205800005112022",
+      "caseNumber2": 511,
+      "caseType": "NACT",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH030001182022",
+      "year": 2022,
+      "petitioner": "HDFC BANK LTD.",
+      "respondent": "AAKASH KUMAR PANDEY",
+      "caseNumber": "205800001062022",
+      "caseNumber2": 106,
+      "caseType": "NACT",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH030177352022",
+      "year": 2022,
+      "petitioner": "State of UT Chandigarh",
+      "respondent": "Aakash",
+      "caseNumber": "205900013852022",
+      "caseNumber2": 1385,
+      "caseType": "PCH",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH030072132022",
+      "year": 2022,
+      "petitioner": "State of UT Chandigarh",
+      "respondent": "Aakash@Nony",
+      "caseNumber": "205900006052022",
+      "caseNumber2": 605,
+      "caseType": "PCH",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH030031762022",
+      "year": 2022,
+      "petitioner": "HDFC BANK LTD.",
+      "respondent": "AAKASH",
+      "caseNumber": "207200013602022",
+      "caseNumber2": 1360,
+      "caseType": "COMA",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH030072132022",
+      "year": 2022,
+      "petitioner": "",
+      "respondent": "",
+      "caseNumber": "205900006052022",
+      "caseNumber2": 605,
+      "caseType": "PCH",
+      "decisionDate": null
+    },
+    {
+      "cnr": "CHCH030022672022",
+      "year": 2022,
+      "petitioner": "",
+      "respondent": "",
+      "caseNumber": "205900002002022",
+      "caseNumber2": 200,
+      "caseType": "PCH",
+      "decisionDate": null
+    }
+  ]

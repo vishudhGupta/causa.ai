@@ -1,0 +1,30 @@
+
+.courtHeading{
+    font-family: "Mukta", sans-serif;
+    text-align: center;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem;
+    margin: 1rem;
+    color: #48cacf;
+}
+
+.tableContent{
+    display: flex;
+    justify-content: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 45%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }

@@ -1,0 +1,20 @@
+.sideNavigation_menu_item{
+    display: flex;
+    color: white;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-size: 1.2em;
+    font-family: "Mukta", sans-serif;
+    font-weight: 700;
+}
+.sideNavigation_menu{
+    background-color: #333;
+    height: 83vh;
+}
+.sideNavigation_menu_item span{
+    margin: 0 20px;
+}
+.active{
+    border-bottom: 2px solid white;
+}
